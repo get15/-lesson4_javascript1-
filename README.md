@@ -6,21 +6,25 @@
     ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to Cloud9 IDE!
+## Project Name:  Expense Calculator Application
 
-To get you started, we included a small hello world application.
+### Course Title:
+LIS 2360:  Web Application Development
 
-1) Open the hello-world.html file
+### Assignment Date:  
+February 6, 2017
 
-2) Click on the Preview button to open a live preview pane
+### Student Name:  
+Garrett Turner
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+### Project Description:
+In this project I had to add additional categories and type in code so that it knows how to convert and what to convert. I provided the code so that the calculator could convert the numbers I plugged in.
 
-Happy coding!
-The Cloud9 IDE team
+### View Project:
+https://get15.github.io/-lesson4_javascript1-/
 
+### Lessons Learned in the Assignment:
+1. I learned how to string to float using the Parsefloats method.
+2. I learned how to add code needed to declare variables which were used to store the calculation results.
+3. I learned how to implement the GetElementById command which cleared the results once the clear button was clicked.
 
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
